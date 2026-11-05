@@ -20,7 +20,7 @@
 ### Como eu não tinha o ambiente pronto para desenvolver rapidamente o desafio, isso acabou consumindo tod0 o tempo. 
 
 ### Perdi certo tempo pra entender e aplicar os conceitos chaves como Chunks, Carregamento de arquivos PDFs,
-### CSVs, Chains.
+### CSVs, Chains, ChromaDB.
 ### Teria utilizado os melhores recursos da LangChain como LangSmith e Chainlit.
 
 # Uso de assistentes de código: 
